@@ -1,4 +1,4 @@
-# text-scroll-magic
+# Text Scroll Magic
 
 <img src="Screenshot.png" alt="text scroll magic" /><br>
 
